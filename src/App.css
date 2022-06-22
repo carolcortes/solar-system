@@ -1,22 +1,22 @@
 body {
+  background-image: url('./images/background.png');
   margin: 0;
-  background-image: url(./images/background.png);
 }
 
 header {
   color: white;
-  font-size: 40px;
   display: flex;
+  font-size: 40px;
   justify-content: center;
 }
 
 .title {
   color: white;
+  border: 1px solid white;
+  border-radius: 15px;
   display: flex;
   font-size: 40px;
   justify-content: center;
-  border: 1px solid white;
-  border-radius: 15px;
   margin: 20px 150px;
   padding: 15px;
 }
@@ -31,35 +31,34 @@ header {
 }
 
 .planet-card {
-  display: flex;
-  flex-wrap: wrap;
   align-items: center;
-  justify-content: space-around;
-  flex: 1 1 0;
   color: white;
+  display: flex;
+  flex: 1 1 0;
+  flex-wrap: wrap;
+  justify-content: space-around;
 }
 
 .mission {
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-  justify-content: space-around;
-  flex: 1 1 0;
-  min-width: 300px;
-  max-width: 300px;
-  margin: 10px 10px;
   border: 1px white solid;
   border-radius: 15px;
   color: white;
+  display: flex;
+  flex: 1 1 0;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  min-width: 300px;
+  max-width: 300px;
   margin: 20px 30px;
 }
 
 .mission-name {
+  border-bottom: 1px solid white;
   font-weight: 900;
   font-size: 25px;
-  border-bottom: 1px solid white;
-  width: 100%;
   text-align: left;
+  width: 100%;
 }
 
 .name {
@@ -67,14 +66,14 @@ header {
 }
 
 .mission-info {
-  text-align: left;
   font-size: 16px;
   margin-left: 30px;
+  text-align: left;
 }
 
 .mission-card {
   display: flex;
   flex-wrap: wrap;
-  margin: 10px 10px;
   justify-content: center;
+  margin: 10px;
 }
