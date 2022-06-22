@@ -11,9 +11,9 @@ header {
 }
 
 .title {
-  color: white;
   border: 1px solid white;
   border-radius: 15px;
+  color: white;
   display: flex;
   font-size: 40px;
   justify-content: center;
@@ -45,18 +45,17 @@ header {
   color: white;
   display: flex;
   flex: 1 1 0;
-  flex-direction: column;
-  flex-wrap: wrap;
+  flex-flow: column wrap;
   justify-content: space-around;
-  min-width: 300px;
-  max-width: 300px;
   margin: 20px 30px;
+  max-width: 300px;
+  min-width: 300px;
 }
 
 .mission-name {
   border-bottom: 1px solid white;
-  font-weight: 900;
   font-size: 25px;
+  font-weight: 900;
   text-align: left;
   width: 100%;
 }
