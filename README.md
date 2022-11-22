@@ -6,7 +6,8 @@
 ## Habilidades:
   - Desenvolvimento de um modelo do sistema solar, contendo informações sobre diversas missões espacias que ocorreram ao longo da história;
   - Aplicação desenvolvida com ``React.js``, com criação de ``componentes de classe`` e passagem de ``props``;
-  - Utilização de ``PropTypes`` para validação de props de cada componente.
+  - Utilização de ``PropTypes`` para validação de props de cada componente;
+  - Design responsivo.
  
  ## Funcionalidade:
   - Visualiação de todos os planetas do sistema solar renderizados na tela;
