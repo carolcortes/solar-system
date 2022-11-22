@@ -1,7 +1,7 @@
 # Projeto Solar System :sun_with_face:
 ``Junho/2022``
 
-> Projeto desenvolvido no Bloco 10 - Introdução à React, no módulo de Fundamentos de Desenvolvimento Web, na [Trybe](https://www.betrybe.com/).
+> Projeto desenvolvido no Bloco 10 - Introdução à React, no módulo de Desenvolvimento Front-end, na [Trybe](https://www.betrybe.com/).
 
 ## Habilidades:
   - Desenvolvimento de um modelo do sistema solar, contendo informações sobre diversas missões espacias que ocorreram ao longo da história;
