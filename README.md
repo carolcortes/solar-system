@@ -1,4 +1,4 @@
-# Projeto Solar System :sun_with_face:
+# Projeto Solar System :sun_with_face: :rocket:
 ``Junho/2022``
 
 > Projeto desenvolvido no Bloco 10 - Introdução à React, no módulo de Desenvolvimento Front-end, na [Trybe](https://www.betrybe.com/).
